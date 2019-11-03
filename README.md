@@ -2,4 +2,4 @@
 Exercise
 Used HTML, CSS, Javascript & Bootstrap
 
-See the resunt <a href="https://giselasolis.github.io/Nabi-page/"> here </a>
+See the result <a href="https://giselasolis.github.io/Nabi-page/"> here </a>
